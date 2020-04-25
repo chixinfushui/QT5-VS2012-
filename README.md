@@ -7,3 +7,7 @@
 当然也可用用qt vs addin插件。在2012下调试。个人感觉还是VS调试方便一点。
 
 这几个环境亲测可用。项目也做了一半了。因为项目是公司的。不方便上传。 
+
+github  大文件不让传。 下载地址：
+https://pan.baidu.com/s/1QqlIQKWNP-KWFEdT_35D6w
+提取码  iqit
